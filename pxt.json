@@ -1,5 +1,6 @@
 {
     "name": "Laureline_4E_Programme8-Podometre_2",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
